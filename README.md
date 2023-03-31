@@ -76,5 +76,10 @@ git push origin main
 
 Now you have successfully resolved a conflict using Git, GitHub, and pull requests. This process is common in real-world projects, so it's essential to understand and practice resolving conflicts.
 
+
+## add-self-introduction-conflict
+Edited here.
+
 ## Main
 Main edited here.
+
